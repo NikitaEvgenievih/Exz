@@ -1,0 +1,15 @@
+D:\C++_projects\ConsoleApp0810\ConsoleApp0810\bin\Debug\net6.0\ConsoleApp0810.exe
+D:\C++_projects\ConsoleApp0810\ConsoleApp0810\bin\Debug\net6.0\ConsoleApp0810.deps.json
+D:\C++_projects\ConsoleApp0810\ConsoleApp0810\bin\Debug\net6.0\ConsoleApp0810.runtimeconfig.json
+D:\C++_projects\ConsoleApp0810\ConsoleApp0810\bin\Debug\net6.0\ConsoleApp0810.dll
+D:\C++_projects\ConsoleApp0810\ConsoleApp0810\bin\Debug\net6.0\ref\ConsoleApp0810.dll
+D:\C++_projects\ConsoleApp0810\ConsoleApp0810\bin\Debug\net6.0\ConsoleApp0810.pdb
+D:\C++_projects\ConsoleApp0810\ConsoleApp0810\obj\Debug\net6.0\ConsoleApp0810.csproj.AssemblyReference.cache
+D:\C++_projects\ConsoleApp0810\ConsoleApp0810\obj\Debug\net6.0\ConsoleApp0810.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++_projects\ConsoleApp0810\ConsoleApp0810\obj\Debug\net6.0\ConsoleApp0810.AssemblyInfoInputs.cache
+D:\C++_projects\ConsoleApp0810\ConsoleApp0810\obj\Debug\net6.0\ConsoleApp0810.AssemblyInfo.cs
+D:\C++_projects\ConsoleApp0810\ConsoleApp0810\obj\Debug\net6.0\ConsoleApp0810.csproj.CoreCompileInputs.cache
+D:\C++_projects\ConsoleApp0810\ConsoleApp0810\obj\Debug\net6.0\ConsoleApp0810.dll
+D:\C++_projects\ConsoleApp0810\ConsoleApp0810\obj\Debug\net6.0\ref\ConsoleApp0810.dll
+D:\C++_projects\ConsoleApp0810\ConsoleApp0810\obj\Debug\net6.0\ConsoleApp0810.pdb
+D:\C++_projects\ConsoleApp0810\ConsoleApp0810\obj\Debug\net6.0\ConsoleApp0810.genruntimeconfig.cache
